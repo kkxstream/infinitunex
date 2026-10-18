@@ -2,6 +2,6 @@ services:
   infinitunes:
     build:
       dockerfile: Dockerfile
-    image: infinitunes
+    image: infinitunex
     ports:
       - "3000:3000"
