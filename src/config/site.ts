@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: "Infinitunes",
+  name: "Infinitunex",
   url: "https://infinitunes.rajputhemant.me",
   description:
     "A Simple Music Player Web App built using Next.js, shadcn/ui, TailwindCSS, DrizzleORM and more...",
@@ -7,14 +7,14 @@ export const siteConfig = {
   author: {
     name: "Hemant Rajput",
     url: "https://rajputhemant.me",
-    email: "68769346+rajput-hemant@users.noreply.github.com",
-    x: "@rajput_hemant01",
+    email: "68769346+kkxstream@users.noreply.github.com",
+    x: "@kkxstream",
   },
 
   links: {
-    github: "https://github.com/rajput-hemant/infinitunes",
-    discord: "https://discord.gg/rajput-hemant#8269",
-    x: "https://twitter.com/rajput_hemant01",
+    github: "https://github.com/kkxstream/infinitunex",
+    discord: "https://discord.gg/kkxstream",
+    x: "https://twitter.com/kkxstream",
   },
 };
 
