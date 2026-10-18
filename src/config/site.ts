@@ -5,9 +5,9 @@ export const siteConfig = {
     "A Simple Music Player Web App built using Next.js, shadcn/ui, TailwindCSS, DrizzleORM and more...",
 
   author: {
-    name: "Hemant Rajput",
-    url: "https://rajputhemant.me",
-    email: "68769346+kkxstream@users.noreply.github.com",
+    name: "kkxstream",
+    url: "https://kkxstream.me",
+    email: "156395658+kkxstream@users.noreply.github.com",
     x: "@kkxstream",
   },
 
